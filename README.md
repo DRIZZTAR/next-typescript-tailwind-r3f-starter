@@ -1,4 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Next.js R3F Starter with TailwindCSS v4
+
+A modern starter template featuring:
+
+- [Next.js 15](https://nextjs.org/) - React framework with optimized rendering strategies
+- [TailwindCSS v4](https://tailwindcss.com/) - Utility-first CSS framework with new v4 features
+- [React Three Fiber](https://github.com/pmndrs/react-three-fiber) - React renderer for Three.js
+- [Drei](https://github.com/pmndrs/drei) - Useful helpers for R3F
+- [TypeScript](https://www.typescriptlang.org/) - Type safety throughout the project
+- [PostProcessing](https://github.com/pmndrs/postprocessing) - Effects for your 3D scenes
+- [Geist Font](https://vercel.com/font) - Beautiful system font by Vercel
+
+## Instalation
+```bash
+npm install
+# or
+yarn
+# or
+pnpm install
+# or
+bun install
+```
 
 ## Getting Started
 
