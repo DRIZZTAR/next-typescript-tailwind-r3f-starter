@@ -3,6 +3,17 @@
 @theme {
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  /* New custom color */
+  --color-brand: #e11d48;
+  /* New custom spacing */
+  --spacing-96: 24rem;
+}
+
+@layer utilities {
+  /* New custom utility */
+  .border-brand-dashed {
+    border: 2px dashed var(--color-brand);
+  }
 }
 
 :root {
